@@ -1,0 +1,15 @@
+.body_background{
+    background-color: red;
+    background-position: center;
+    background-size: cover;
+    }
+    h1{
+        color:antiquewhite;
+        font-size: 40px;
+    }
+    #mycanvas
+    {
+        border-width: 10px;
+        background-color:orange;
+        border-style:ridge;
+    }
